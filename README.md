@@ -13,8 +13,6 @@
 - 🎓 Engineering student at **IIIT Dharwad**
 - 🧠 Exploring **Machine Learning, Data Science, and Big Data**
 - 🤖 Learning **LLMs, Generative AI, Agentic AI, RAG, and n8n automation**
-- 🛠️ Focused on **end-to-end pipelines**, not just isolated ML models
-- 🔬 Learning by building, breaking, and iterating on real projects
 
 ---
 
