@@ -87,15 +87,3 @@
 </div>
 
 ---
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/RK0297/RK0297/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<div align="center">
-
-**Learning in public • Building systems • Respecting uncertainty**
-
-</div>
