@@ -19,7 +19,7 @@ Actively exploring AI tools and hands-on projects to build practical understandi
 
 ### Languages
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB? style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
@@ -28,7 +28,7 @@ Actively exploring AI tools and hands-on projects to build practical understandi
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB? style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/PyCaret-00599C?style=for-the-badge&logo=python&logoColor=white" alt="PyCaret"/>
@@ -49,17 +49,17 @@ Actively exploring AI tools and hands-on projects to build practical understandi
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="RAG"/>
 <img src="https://img.shields.io/badge/NLP-00C7B7?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
 <img src="https://img.shields.io/badge/Semantic_Search-4A90E2?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Semantic Search"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71? style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
 ### Dev Tools
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-2496ED? style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Figma+AI-F24E1E? style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Figma+AI-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
