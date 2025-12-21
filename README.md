@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Radhakrishna Bharuka (RK)
 
-**Engineering student at IIIT Dharwad | Building systems, not just models**
+**DSAI student at IIIT Dharwad **
 
 </div>
 
@@ -10,7 +10,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Engineering student at **IIIT Dharwad**
 - 🧠 Exploring **Machine Learning, Data Science, and Big Data**
 - 🤖 Learning **LLMs, Generative AI, Agentic AI, RAG, and n8n automation**
 
