@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Radhakrishna Bharuka (RK)
 
-**DSAI student at IIIT Dharwad **
+** DSAI student at IIIT Dharwad **
 
 </div>
 
