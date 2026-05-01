@@ -22,7 +22,6 @@ Data Science and Artificial Intelligence undergraduate with a strong foundation 
 ### Languages
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
@@ -37,7 +36,6 @@ Data Science and Artificial Intelligence undergraduate with a strong foundation 
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 <img src="https://img.shields.io/badge/Time--Series-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Time-Series"/>
-<img src="https://img.shields.io/badge/Linear%20Programming-4A90E2?style=for-the-badge&logo=opslevel&logoColor=white" alt="Linear Programming"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
@@ -51,12 +49,11 @@ Data Science and Artificial Intelligence undergraduate with a strong foundation 
 <img src="https://img.shields.io/badge/Semantic_Search-4A90E2?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Semantic Search"/>
 </p>
 
-### Databases, Backend & Architecture
+### Databases & Backend
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=architecture&logoColor=white" alt="System Design"/>
 </p>
 
 ### Dev Tools
@@ -67,7 +64,6 @@ Data Science and Artificial Intelligence undergraduate with a strong foundation 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
@@ -76,11 +72,18 @@ Data Science and Artificial Intelligence undergraduate with a strong foundation 
 
 <div align="center">
 
+### GitHub Trophies
+[![RK's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RK0297&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Contribution Activity
+![Green Contribution Graph](https://ghchart.rshah.org/RK0297)
+
 ![RK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RK0297&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
 
 ### Stats & Commits
-<img src="https://github-readme-stats.vercel.app/api?username=RK0297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="RK's GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK0297&theme=tokyonight&hide_border=true" alt="RK's GitHub Streak" width="48%" />
+*(Note: If the cards below show a broken image icon, the public GitHub API is currently rate-limited. Check back in a few hours.)*
+
+<img src="https://github-readme-stats.vercel.app/api?username=RK0297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,prs_merged" alt="RK's GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK0297&theme=tokyonight&hide_border=true" alt="RK's GitHub Streak" width="48%" />
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RK0297&layout=compact&theme=tokyonight&hide_border=true)
