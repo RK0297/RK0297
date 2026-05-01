@@ -1,91 +1,54 @@
 <div align="center">
 
-# Hi, I'm Radhakrishna Bharuka (RK)
+## 📊 GitHub Analytics
 
-**Data Science and Artificial Intelligence (DSAI) | B.Tech @ IIIT Dharwad**
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhakrishna-bharuka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhebharuka29@gmail.com)
+### 🏆 Trophies
 
-</div>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RK0297&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## About Me
-
-Data Science and Artificial Intelligence undergraduate with a strong foundation in machine learning, NLP, and database engineering. Experienced in building scalable AI applications, from optimizing LLMs and RAG pipelines to designing high-performance backend architectures. Passionate about solving complex data problems and transforming analytical insights into practical, intelligent systems.
+<br>
 
 ---
 
-## Tech Stack & Skills
+### 🟩 Contribution Activity
 
-### Languages
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+![Contribution Graph](https://ghchart.rshah.org/38bcad/RK0297)
 
-### Machine Learning & Data Science
-<p align="left">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/PyCaret-00599C?style=for-the-badge&logo=python&logoColor=white" alt="PyCaret"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Time--Series-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Time-Series"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
+<br>
 
-### Artificial Intelligence & GenAI
-<p align="left">
-<img src="https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=ai&logoColor=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/Knowledge%20Distillation-EA4B71?style=for-the-badge&logo=ai&logoColor=white" alt="Knowledge Distillation"/>
-<img src="https://img.shields.io/badge/NLP-00C7B7?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Semantic_Search-4A90E2?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Semantic Search"/>
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RK0297&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bcad&line=38bcad&point=ffffff&area=true&area_color=38bcad)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Databases & Backend
-<p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-
-### Dev Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</p>
+<br>
 
 ---
 
-## GitHub Analytics
+### 📈 Stats & Streaks
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RK0297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,prs_merged&rank_icon=github&custom_title=RK's%20GitHub%20Stats" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RK0297&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-### GitHub Trophies
-[![RK's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RK0297&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
-### Contribution Activity
-![Green Contribution Graph](https://ghchart.rshah.org/RK0297)
+---
 
-![RK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RK0297&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
+### 🧠 Top Languages
 
-### Stats & Commits
-*(Note: If the cards below show a broken image icon, the public GitHub API is currently rate-limited. Check back in a few hours.)*
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RK0297&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=RK0297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,prs_merged" alt="RK's GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK0297&theme=tokyonight&hide_border=true" alt="RK's GitHub Streak" width="48%" />
+<br>
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RK0297&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RK0297/RK0297/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RK0297/RK0297/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RK0297/RK0297/output/github-snake.svg" />
+</picture>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RK0297&color=38bcad&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
