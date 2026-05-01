@@ -93,7 +93,7 @@ Data Science and Artificial Intelligence undergraduate with a strong foundation 
 
 ### 📈 Stats & Streaks
 
-<img src="https://github-readme-stats.vercel.app/api?username=RK0297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-sooty-omega-51.vercel.app/api?username=RK0297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=RK0297&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
 <br>
@@ -102,7 +102,7 @@ Data Science and Artificial Intelligence undergraduate with a strong foundation 
 
 ### 🧠 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RK0297&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sooty-omega-51.vercel.app/api/top-langs/?username=RK0297&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
